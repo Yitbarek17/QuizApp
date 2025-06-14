@@ -1,0 +1,6 @@
+com.example.quizapp.test.app-core-1.5.0-0 C:\Users\babi\.gradle\caches\8.10.2\transforms\0c5753ac37b6402614c2efb450ac7369\transformed\core-1.5.0\res
+com.example.quizapp.test.app-annotation-experimental-1.3.0-1 C:\Users\babi\.gradle\caches\8.10.2\transforms\ca02112073ee67852e2223a8a770cafa\transformed\annotation-experimental-1.3.0\res
+com.example.quizapp.test.app-androidTest-2 C:\Users\babi\Downloads\project\app\build\generated\res\resValues\androidTest\debug
+com.example.quizapp.test.app-mergeDebugAndroidTestResources-3 C:\Users\babi\Downloads\project\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.example.quizapp.test.app-mergeDebugAndroidTestResources-4 C:\Users\babi\Downloads\project\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.example.quizapp.test.app-debugAndroidTest-5 C:\Users\babi\Downloads\project\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources

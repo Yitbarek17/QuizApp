@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.QuizApp" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <!-- Primary brand colors -->
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorPrimaryVariant">@color/primary_dark</item>
+        <item name="colorOnPrimary">@color/white</item>
+        
+        <!-- Secondary brand colors -->
+        <item name="colorSecondary">@color/secondary</item>
+        <item name="colorSecondaryVariant">@color/secondary_dark</item>
+        <item name="colorOnSecondary">@color/white</item>
+        
+        <!-- Status bar color -->
+        <item name="android:statusBarColor">@color/primary_dark</item>
+        
+        <!-- Text appearance -->
+        <item name="textAppearanceHeadline1">@style/TextAppearance.QuizApp.Headline1</item>
+        <item name="textAppearanceHeadline2">@style/TextAppearance.QuizApp.Headline2</item>
+        <item name="textAppearanceHeadline3">@style/TextAppearance.QuizApp.Headline3</item>
+        <item name="textAppearanceHeadline4">@style/TextAppearance.QuizApp.Headline4</item>
+        <item name="textAppearanceHeadline5">@style/TextAppearance.QuizApp.Headline5</item>
+        <item name="textAppearanceHeadline6">@style/TextAppearance.QuizApp.Headline6</item>
+        <item name="textAppearanceSubtitle1">@style/TextAppearance.QuizApp.Subtitle1</item>
+        <item name="textAppearanceSubtitle2">@style/TextAppearance.QuizApp.Subtitle2</item>
+        <item name="textAppearanceBody1">@style/TextAppearance.QuizApp.Body1</item>
+        <item name="textAppearanceBody2">@style/TextAppearance.QuizApp.Body2</item>
+        
+        <!-- Shape appearance -->
+        <item name="shapeAppearanceSmallComponent">@style/ShapeAppearance.QuizApp.SmallComponent</item>
+        <item name="shapeAppearanceMediumComponent">@style/ShapeAppearance.QuizApp.MediumComponent</item>
+        <item name="shapeAppearanceLargeComponent">@style/ShapeAppearance.QuizApp.LargeComponent</item>
+    </style>
+    
+    <!-- Text styles -->
+    <style name="TextAppearance.QuizApp.Headline1" parent="TextAppearance.MaterialComponents.Headline1">
+        <item name="fontFamily">sans-serif-light</item>
+        <item name="android:fontFamily">sans-serif-light</item>
+        <item name="android:textSize">96sp</item>
+        <item name="android:letterSpacing">-0.015625</item>
+        <item name="lineHeight">115.2sp</item>
+    </style>
+    
+    <style name="TextAppearance.QuizApp.Headline2" parent="TextAppearance.MaterialComponents.Headline2">
+        <item name="fontFamily">sans-serif-light</item>
+        <item name="android:fontFamily">sans-serif-light</item>
+        <item name="android:textSize">60sp</item>
+        <item name="android:letterSpacing">-0.00833</item>
+        <item name="lineHeight">72sp</item>
+    </style>
+    
+    <style name="TextAppearance.QuizApp.Headline3" parent="TextAppearance.MaterialComponents.Headline3">
+        <item name="fontFamily">sans-serif</item>
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:textSize">48sp</item>
+        <item name="lineHeight">57.6sp</item>
+    </style>
+    
+    <style name="TextAppearance.QuizApp.Headline4" parent="TextAppearance.MaterialComponents.Headline4">
+        <item name="fontFamily">sans-serif</item>
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:textSize">34sp</item>
+        <item name="android:letterSpacing">0.00735</item>
+        <item name="lineHeight">40.8sp</item>
+    </style>
+    
+    <style name="TextAppearance.QuizApp.Headline5" parent="TextAppearance.MaterialComponents.Headline5">
+        <item name="fontFamily">sans-serif</item>
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:textSize">24sp</item>
+        <item name="lineHeight">28.8sp</item>
+    </style>
+    
+    <style name="TextAppearance.QuizApp.Headline6" parent="TextAppearance.MaterialComponents.Headline6">
+        <item name="fontFamily">sans-serif-medium</item>
+        <item name="android:fontFamily">sans-serif-medium</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:letterSpacing">0.0125</item>
+        <item name="lineHeight">24sp</item>
+    </style>
+    
+    <style name="TextAppearance.QuizApp.Subtitle1" parent="TextAppearance.MaterialComponents.Subtitle1">
+        <item name="fontFamily">sans-serif</item>
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:letterSpacing">0.00938</item>
+        <item name="lineHeight">24sp</item>
+    </style>
+    
+    <style name="TextAppearance.QuizApp.Subtitle2" parent="TextAppearance.MaterialComponents.Subtitle2">
+        <item name="fontFamily">sans-serif-medium</item>
+        <item name="android:fontFamily">sans-serif-medium</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:letterSpacing">0.00714</item>
+        <item name="lineHeight">20sp</item>
+    </style>
+    
+    <style name="TextAppearance.QuizApp.Body1" parent="TextAppearance.MaterialComponents.Body1">
+        <item name="fontFamily">sans-serif</item>
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:letterSpacing">0.03125</item>
+        <item name="lineHeight">24sp</item>
+    </style>
+    
+    <style name="TextAppearance.QuizApp.Body2" parent="TextAppearance.MaterialComponents.Body2">
+        <item name="fontFamily">sans-serif</item>
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:letterSpacing">0.0178</item>
+        <item name="lineHeight">21sp</item>
+    </style>
+    
+    <!-- Shape styles -->
+    <style name="ShapeAppearance.QuizApp.SmallComponent" parent="ShapeAppearance.MaterialComponents.SmallComponent">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">8dp</item>
+    </style>
+    
+    <style name="ShapeAppearance.QuizApp.MediumComponent" parent="ShapeAppearance.MaterialComponents.MediumComponent">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">12dp</item>
+    </style>
+    
+    <style name="ShapeAppearance.QuizApp.LargeComponent" parent="ShapeAppearance.MaterialComponents.LargeComponent">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">16dp</item>
+    </style>
+</resources>

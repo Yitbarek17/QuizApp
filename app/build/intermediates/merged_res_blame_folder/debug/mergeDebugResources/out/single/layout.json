@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "com.example.quizapp-mergeDebugResources-48:/layout/item_category.xml",
+        "source": "com.example.quizapp-main-51:/layout/item_category.xml"
+    },
+    {
+        "merged": "com.example.quizapp-mergeDebugResources-48:/layout/item_history.xml",
+        "source": "com.example.quizapp-main-51:/layout/item_history.xml"
+    },
+    {
+        "merged": "com.example.quizapp-mergeDebugResources-48:/layout/activity_quiz.xml",
+        "source": "com.example.quizapp-main-51:/layout/activity_quiz.xml"
+    },
+    {
+        "merged": "com.example.quizapp-mergeDebugResources-48:/layout/activity_history.xml",
+        "source": "com.example.quizapp-main-51:/layout/activity_history.xml"
+    },
+    {
+        "merged": "com.example.quizapp-mergeDebugResources-48:/layout/dialog_biometric_setup.xml",
+        "source": "com.example.quizapp-main-51:/layout/dialog_biometric_setup.xml"
+    },
+    {
+        "merged": "com.example.quizapp-mergeDebugResources-48:/layout/activity_category.xml",
+        "source": "com.example.quizapp-main-51:/layout/activity_category.xml"
+    },
+    {
+        "merged": "com.example.quizapp-mergeDebugResources-48:/layout/activity_result.xml",
+        "source": "com.example.quizapp-main-51:/layout/activity_result.xml"
+    },
+    {
+        "merged": "com.example.quizapp-mergeDebugResources-48:/layout/activity_main.xml",
+        "source": "com.example.quizapp-main-51:/layout/activity_main.xml"
+    }
+]

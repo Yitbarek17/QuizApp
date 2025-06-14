@@ -1,0 +1,118 @@
+[
+    {
+        "merged": "com.example.quizapp-debug-49:/anim_slide_in_left.xml.flat",
+        "source": "com.example.quizapp-main-51:/anim/slide_in_left.xml"
+    },
+    {
+        "merged": "com.example.quizapp-debug-49:/layout_item_history.xml.flat",
+        "source": "com.example.quizapp-main-51:/layout/item_history.xml"
+    },
+    {
+        "merged": "com.example.quizapp-debug-49:/drawable_ic_celebration.xml.flat",
+        "source": "com.example.quizapp-main-51:/drawable/ic_celebration.xml"
+    },
+    {
+        "merged": "com.example.quizapp-debug-49:/anim_slide_out_left.xml.flat",
+        "source": "com.example.quizapp-main-51:/anim/slide_out_left.xml"
+    },
+    {
+        "merged": "com.example.quizapp-debug-49:/drawable_ic_history_category.xml.flat",
+        "source": "com.example.quizapp-main-51:/drawable/ic_history_category.xml"
+    },
+    {
+        "merged": "com.example.quizapp-debug-49:/drawable_ic_technology.xml.flat",
+        "source": "com.example.quizapp-main-51:/drawable/ic_technology.xml"
+    },
+    {
+        "merged": "com.example.quizapp-debug-49:/drawable_app_logo.png.flat",
+        "source": "com.example.quizapp-main-51:/drawable/app_logo.png"
+    },
+    {
+        "merged": "com.example.quizapp-debug-49:/layout_activity_history.xml.flat",
+        "source": "com.example.quizapp-main-51:/layout/activity_history.xml"
+    },
+    {
+        "merged": "com.example.quizapp-debug-49:/anim_fade_in.xml.flat",
+        "source": "com.example.quizapp-main-51:/anim/fade_in.xml"
+    },
+    {
+        "merged": "com.example.quizapp-debug-49:/layout_activity_result.xml.flat",
+        "source": "com.example.quizapp-main-51:/layout/activity_result.xml"
+    },
+    {
+        "merged": "com.example.quizapp-debug-49:/drawable_ic_fingerprint.xml.flat",
+        "source": "com.example.quizapp-main-51:/drawable/ic_fingerprint.xml"
+    },
+    {
+        "merged": "com.example.quizapp-debug-49:/layout_activity_category.xml.flat",
+        "source": "com.example.quizapp-main-51:/layout/activity_category.xml"
+    },
+    {
+        "merged": "com.example.quizapp-debug-49:/drawable_quiz_logo.xml.flat",
+        "source": "com.example.quizapp-main-51:/drawable/quiz_logo.xml"
+    },
+    {
+        "merged": "com.example.quizapp-debug-49:/anim_item_animation_from_right.xml.flat",
+        "source": "com.example.quizapp-main-51:/anim/item_animation_from_right.xml"
+    },
+    {
+        "merged": "com.example.quizapp-debug-49:/layout_activity_quiz.xml.flat",
+        "source": "com.example.quizapp-main-51:/layout/activity_quiz.xml"
+    },
+    {
+        "merged": "com.example.quizapp-debug-49:/drawable_ic_back.xml.flat",
+        "source": "com.example.quizapp-main-51:/drawable/ic_back.xml"
+    },
+    {
+        "merged": "com.example.quizapp-debug-49:/anim_slide_in_right.xml.flat",
+        "source": "com.example.quizapp-main-51:/anim/slide_in_right.xml"
+    },
+    {
+        "merged": "com.example.quizapp-debug-49:/layout_dialog_biometric_setup.xml.flat",
+        "source": "com.example.quizapp-main-51:/layout/dialog_biometric_setup.xml"
+    },
+    {
+        "merged": "com.example.quizapp-debug-49:/drawable_ic_close.xml.flat",
+        "source": "com.example.quizapp-main-51:/drawable/ic_close.xml"
+    },
+    {
+        "merged": "com.example.quizapp-debug-49:/drawable_ic_science.xml.flat",
+        "source": "com.example.quizapp-main-51:/drawable/ic_science.xml"
+    },
+    {
+        "merged": "com.example.quizapp-debug-49:/drawable_timer_background.xml.flat",
+        "source": "com.example.quizapp-main-51:/drawable/timer_background.xml"
+    },
+    {
+        "merged": "com.example.quizapp-debug-49:/drawable_ic_geography.xml.flat",
+        "source": "com.example.quizapp-main-51:/drawable/ic_geography.xml"
+    },
+    {
+        "merged": "com.example.quizapp-debug-49:/layout_activity_main.xml.flat",
+        "source": "com.example.quizapp-main-51:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.quizapp-debug-49:/layout_item_category.xml.flat",
+        "source": "com.example.quizapp-main-51:/layout/item_category.xml"
+    },
+    {
+        "merged": "com.example.quizapp-debug-49:/drawable_ic_literature.xml.flat",
+        "source": "com.example.quizapp-main-51:/drawable/ic_literature.xml"
+    },
+    {
+        "merged": "com.example.quizapp-debug-49:/drawable_ic_share.xml.flat",
+        "source": "com.example.quizapp-main-51:/drawable/ic_share.xml"
+    },
+    {
+        "merged": "com.example.quizapp-debug-49:/drawable_ic_play.xml.flat",
+        "source": "com.example.quizapp-main-51:/drawable/ic_play.xml"
+    },
+    {
+        "merged": "com.example.quizapp-debug-49:/anim_slide_out_right.xml.flat",
+        "source": "com.example.quizapp-main-51:/anim/slide_out_right.xml"
+    },
+    {
+        "merged": "com.example.quizapp-debug-49:/anim_slide_up.xml.flat",
+        "source": "com.example.quizapp-main-51:/anim/slide_up.xml"
+    }
+]
